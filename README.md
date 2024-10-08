@@ -119,9 +119,4 @@ Bu dosyaları çalıştırmak için bilgisayarımda PHP yüklü olmalı. Her bir
 
 - PHP 7.x veya üstü
 
-## Sonuç
 
-Bu proje, HTTP isteklerini anlamama ve PHP kullanarak veri ile nasıl etkileşimde bulunacağımı öğrenmeme yardımcı olacak. Daha fazla bilgi için [PHP Manual](https://www.php.net/manual/en/) belgesine göz atabilirim.
-```
-
-Bu içeriği doğrudan GitHub'a yükleyebilirsin. Başka bir konuda yardımcı olabilir miyim?
